@@ -1,0 +1,93 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100wh;
+    height: 100vh;
+    background-color: rgb(238, 242, 245);
+
+}
+.mainContainer{
+    background-color:rgb(25, 25, 70);
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height:200px;
+    border-radius: 20px;
+    align-items: center;
+    margin: 10px;
+    margin-left:25%;
+
+}
+.formInput{
+    margin: 1%;
+    padding:8px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: white;
+    color:black;
+}
+button{
+
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2%;
+    width: 75px;
+    color: rgb(14, 19, 86);
+    background-color:black;
+    color: aliceblue;
+}
+.heading{
+    color: black;
+}
+.heading1{
+    font-size:20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    /* justify-content: center; */
+    border-radius: 20px;
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    /* align-items: center; */
+    margin:5px;
+    margin-left:25%;
+    background-color: rgb(25, 25, 70);
+
+
+}
+.listContainer{
+    color: rgb(13, 17, 55);
+    display:flex;
+    margin: 5px;
+    width:570px;
+    background-color:rgb(198, 205, 219);
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.button1{
+    padding:0%;
+    width: 75px;
+    margin: 0%;
+    height: 50px;
+    justify-items:end;
+    margin: 2px;
+    color: rgb(231, 231, 239);
+    background-color:rgb(14, 19, 86);
+}
+.addbutton{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2%;
+    width:100px;
+    color: rgb(231, 231, 238);
+    background-color:rgb(14, 19, 86);
+    color: aliceblue;
+    align-content: center;
+
+}
